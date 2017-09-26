@@ -1,6 +1,6 @@
 Update: Since Microsoft migrated the Custom Visuals to AppSource, the original queries that were shared here are now not refreshable.
-A refreshable version is available here for a small fee
-https://datachant.com/downloads/custom-visuals/
+A refreshable version is available here:
+https://datachant.com/2017/09/26/web-scraping-power-bi-custom-visuals-appsource-using-power-query/
 
-In the next three month, I will re-evaluate the changes on AppSource and decide if it make sense to publish the queries here.
-If you have urgent need to obtain the refreshable version, please contact me. 
+The Excel file: "Custom Visuals - Bulk Download PBIVIZ Files.xlsm" performs the bulk-dowload of all PBIVIZ files from AppSource.
+Bulk downloads of PBIX sample files is not offered here yet, but is available in the link above.
